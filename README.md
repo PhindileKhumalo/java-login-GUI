@@ -1,9 +1,9 @@
-# java-login-GUI
-A Java Swing login GUI demonstrating basic components such as JFrame, JPanel, JTextField, JPasswordField, and radio buttons.
 
 📌 Project Overview
 
-This project is a simple Login Page Graphical User Interface (GUI) built using Java Swing.
+# java-login-GUI
+A Java Swing login GUI demonstrating basic components such as JFrame, JPanel, JTextField, JPasswordField, and radio buttons.
+
 It was developed as part of learning Java GUI programming and demonstrates how to create a login interface using Swing components.
 
 The application allows users to select a role and enter login credentials through a graphical interface.
@@ -57,6 +57,8 @@ Improve UI design and responsiveness
 
 Implement error messages for incorrect input
 
-👨‍💻 Author
-
+👨‍💻 Authors
+Phindile Khumalo, Zusakhe Noguda and Asemahle Meyi
+Computer Science Students
+GitHub: https://github.com/PhindileKhumalo
 Created as part of learning Java programming and GUI development.
