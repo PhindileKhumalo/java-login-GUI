@@ -30,7 +30,7 @@ Centered login interface design
 
 📷 Screenshot
 
-
+![Login GUI](screenshot.png)
 
 
 🚧 Project Status
