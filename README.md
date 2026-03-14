@@ -58,7 +58,10 @@ Improve UI design and responsiveness
 Implement error messages for incorrect input
 
 👨‍💻 Authors
-Phindile Khumalo, Zusakhe Noguda and Asemahle Meyi
-Computer Science Students
-GitHub: https://github.com/PhindileKhumalo
-Created as part of learning Java programming and GUI development.
+- Phindile Khumalo, Zusakhe Noguda and Asemahle Meyi
+
+- Computer Science Students
+
+- GitHub: https://github.com/PhindileKhumalo
+
+- Created as part of learning Java programming and GUI development.
